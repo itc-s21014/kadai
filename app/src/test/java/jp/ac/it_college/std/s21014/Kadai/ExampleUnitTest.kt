@@ -1,4 +1,4 @@
-package jp.ac.it_college.std.s21014.kadai
+package jp.ac.it_college.std.s21014.Kadai
 
 import org.junit.Test
 

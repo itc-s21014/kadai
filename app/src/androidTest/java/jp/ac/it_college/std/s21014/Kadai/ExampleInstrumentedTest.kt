@@ -1,4 +1,4 @@
-package jp.ac.it_college.std.s21014.kadai
+package jp.ac.it_college.std.s21014.Kadai
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
