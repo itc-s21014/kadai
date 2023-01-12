@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">kadai</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">地図</string>
+    <string name="search">検索</string>
+    <string name="search_2">検索</string>
+    <string name="keyword">キーワード</string>
+    <string name="prefectures">都道府県</string>
+    <string name="municipalities">市区町村</string>
+    <string name="select">選択</string>
+    <string name="search_results">検索結果</string>
+    <string name="parks_found">30件の公園が見つかりました。</string>
+    <string name="search_result_found">検索結果が見つかりました。</string>
+    <string name="back">戻る</string>
+    <string name="midorigaoka_park">緑ヶ丘公園</string>
 </resources>
